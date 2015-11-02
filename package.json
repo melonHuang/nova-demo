@@ -1,0 +1,20 @@
+{
+  "name": "element-name",
+  "description": "component created by nova.js",
+  "version": "0.1.0",
+  "author": {},
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-nova": "~1.0.0"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md"
+}
